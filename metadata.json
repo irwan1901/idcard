@@ -1,0 +1,6 @@
+{
+  "name": "KartuID Studio - Digital ID Card Maker",
+  "description": "Platform drag-and-drop kartu identitas digital (Koperasi, Pelajar, Pegawai) dengan integrasi Google Sheets & ekspor PDF/PNG berkualitas tinggi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
